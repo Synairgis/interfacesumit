@@ -3,6 +3,8 @@
 # Plugin Interface SUMiT pour GLPI
 
 ![GLPIv10](https://img.shields.io/badge/GLPI-v10.0-blue)
+![CeCILL-C](https://img.shields.io/badge/Licence-CeCILL--C-purple)
+
 
 Permet la synchronisation des tickets avec SUMiT.
 
