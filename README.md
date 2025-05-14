@@ -2,6 +2,8 @@
 
 # Plugin Interface SUMiT pour GLPI
 
+![GLPIv10](https://img.shields.io/badge/GLPI-v10.0-blue)
+
 Permet la synchronisation des tickets avec SUMiT.
 
 ## Support
