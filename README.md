@@ -21,4 +21,4 @@ Installer le plugin, ou mettez-le à jour, dans **Configuration** > **Plugins**,
 
 Activez ensuite le plugin, et configurez-le si nécessaire dans l'onglet **Interface SUMiT** du menu **Configuration** > **Générale**.
 
-Référez-vous à la documentation fournie avec le public dans le cadre de votre entente de support pour plus amples informations.
+Référez-vous à la documentation fournie avec le plugin dans le cadre de votre entente de support pour plus d'informations.
